@@ -38,6 +38,8 @@ Prototype of a semantic search engine over legal and regulatory documents inspir
 Python • Flask • PostgreSQL • pgvector • Ollama • Groq • Nomic • Three.js • UMAP
 
 ➡️ https://github.com/Leonardorf/aleph-rag-legal
+➡️ https://aleph-rag-legal.onrender.com
+
 
 
 ---
